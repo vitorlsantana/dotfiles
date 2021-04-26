@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = exit
-	name = cd ~/code/$GITHUB
+	email = santana.vitor@gmail.com
+	name = Vitor Santana
